@@ -31,6 +31,7 @@ pyOpenSSL==0.14
 pyparsing==1.5.7
 pyPdf==1.13
 pyserial==2.7
+pysftp==0.2.8
 Python-Chart==1.39
 python_dateutil==1.5
 python_ldap==2.4.15
